@@ -8,8 +8,9 @@ public class main{
         double number6 = 2_484_044; // 8 bytes
         char letter = 'A'; // 2 bytes
         boolean isEligible =false; // 1 bytes
+        String message ="Hello varible";
 
-        System.out.println(letter);
+        System.out.println(message);
 
     }
 }
